@@ -1,0 +1,6 @@
+@MyFirstAspnet_HostAddress = http://localhost:5075
+
+GET {{MyFirstAspnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
